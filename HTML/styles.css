@@ -1,0 +1,77 @@
+/*Para el color de las letras*/
+H1{
+   font-size: 12;
+   font-style: initial;
+   background-color: darkred;
+   padding: 20px;
+   color:cornsilk
+}
+
+/*Para el cuadro donde se pondra otro texto*/
+nav{
+   background-color: rgba(205, 154, 34, 0.667); /*composición del color en términos de la intensidad de los colores primarios de la luz*/
+   width: 100%;
+   list-style-type: none;
+   text-align: center;
+}
+
+/*Para el color de las letras*/
+h2{font-size: 12;
+   font-style: initial;
+   background-color: royalblue;
+   padding: 20px;
+   color:cornsilk}
+
+
+
+
+
+
+/*Para el decorado del texto del titulo*/
+nav a {
+   text-decoration: none;
+   color: palegreen;
+   padding: 10px;
+   width: 150px;
+}
+
+
+
+/*Para el fondo de la pagina*/
+body {
+     background: rgba(234, 176, 41, 0.897);
+}
+
+
+/*Para el color de las letras del parrafo*/
+P{
+  color: white;
+  width: 500px;
+  border: 1px solid teal;
+}
+
+
+
+
+/*Para el tipo de parrafo*/
+P{
+  font-style: oblique;
+  font-weight: normal=100;
+}
+
+/*Para el tipo de parrafo*/
+p{
+  color: black;
+  width: 500px;
+  border: 1px solid teal;
+
+
+}
+
+/*Para el tamaño del margen y color*/
+body{
+   border-style: outset;
+   border-color: rgba(205, 31, 18, 0.542);
+   border-width: medium;
+
+}
